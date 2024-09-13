@@ -1,0 +1,17 @@
+[
+	{
+		"source": "/MTDconnect",
+		"destination": "https://link-tree.mtd.org/MTDConnect",
+		"permanent": true
+	},
+	{
+		"source": "/LTR-UIUC",
+		"destination": "https://mtd.org/maps-and-schedules/uiuc-learn-to-ride/",
+		"permanent": true
+	},
+	{
+		"source": "/stay-connected",
+		"destination": "https://link-tree.mtd.org/",
+		"permanent": true
+	}
+]
