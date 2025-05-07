@@ -13,5 +13,10 @@
 		"source": "/stay-connected",
 		"destination": "https://link-tree.mtd.org/",
 		"permanent": true
+	},
+	{
+		"source": "/marketplace",
+		"destination": "https://mtd.org/maps-and-schedules/public-hearing#:~:text=Summary%20of%20Proposed%20Changes",
+		"permanent": false
 	}
 ]
